@@ -11,7 +11,6 @@
 <p>
   <a href="https://ethices.com"><img src="https://img.shields.io/badge/ETHICES-ethices.com-ff6b9d?style=for-the-badge&logo=sparkles&logoColor=white" alt="ETHICES Homepage" /></a>
   <a href="https://blog.ethices.com"><img src="https://img.shields.io/badge/Terminal-blog.ethices.com-7c5cff?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Project2036 Terminal" /></a>
-  <a href="https://blog.ethices.com/csi/"><img src="https://img.shields.io/badge/Costco_Search-%2Fcsi%2F-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Costco Item Search" /></a>
 </p>
 
 <p>
@@ -33,7 +32,7 @@
 - 💻 **Role:** Software Developer — Enterprise Back-office & Workflow Automation
 - ⚡ **Core Focus:** Workflow Automation · API Integrations · Data Pipelines · Multi-Agent Systems · Knowledge & Ontology
 - 🤖 **Philosophy:** *"AI is not just a tool. AI is a team."*
-- 🌐 **Home & Lab:** [ethices.com](https://ethices.com) · [blog.ethices.com](https://blog.ethices.com) · [Costco Item Search](https://blog.ethices.com/csi/)
+- 🌐 **Home & Lab:** [ethices.com](https://ethices.com) · [blog.ethices.com](https://blog.ethices.com)
 - 📍 **Location:** South Korea (`UTC+9`)
 
 <br clear="both" />
@@ -108,7 +107,6 @@
 
 - **[ETHICES (`ethices.com`)](https://ethices.com)** — *선의 51%가 미래를 만든다 (51% of Good) · Ethics × AI × Security × Web3*
 - **[Project2036 Terminal (`blog.ethices.com`)](https://blog.ethices.com)** — *Interactive Developer Terminal & Lab*
-- **[Costco Item Search (`blog.ethices.com/csi/`)](https://blog.ethices.com/csi/)** — *Quick 6-Digit Item ID & Keyword Lookup for costco.co.kr*
 
 ### 🧩 Open-Source & Community Repositories
 

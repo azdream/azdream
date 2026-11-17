@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://blog.ethices.com">
+  <a href="https://ethices.com">
     <img src="./assets/hero-arcade.gif" width="840" alt="AZDREAM // Project2036 Pixel Arcade Lounge featuring 5 Omni-Agent mini-me pixel characters" />
   </a>
 
   <br/><br/>
 
-  <a href="https://blog.ethices.com"><img src="https://img.shields.io/badge/PROJECT2036_TERMINAL-blog.ethices.com-5eead4?style=flat-square&labelColor=101724" alt="blog.ethices.com" /></a>
-  <a href="https://blog.ethices.com/csi/"><img src="https://img.shields.io/badge/WEB_UTILITY-%2Fcsi%2F_Costco_Search-facc15?style=flat-square&labelColor=101724" alt="Costco Search" /></a>
+  <a href="https://ethices.com"><img src="https://img.shields.io/badge/HOMEPAGE-ethices.com-39ff88?style=flat-square&labelColor=101724" alt="ethices.com" /></a>
+  <a href="https://blog.ethices.com"><img src="https://img.shields.io/badge/TERMINAL-blog.ethices.com-5eead4?style=flat-square&labelColor=101724" alt="blog.ethices.com" /></a>
+  <a href="https://blog.ethices.com/csi/"><img src="https://img.shields.io/badge/UTILITY-%2Fcsi%2F_Costco_Search-facc15?style=flat-square&labelColor=101724" alt="Costco Search" /></a>
   <a href="https://github.com/azdream?tab=repositories"><img src="https://img.shields.io/badge/QUEST_LOG-Public_Repos-fa9679?style=flat-square&labelColor=101724" alt="Repositories" /></a>
-  <img src="https://img.shields.io/badge/BASED_IN-South_Korea-a78bfa?style=flat-square&labelColor=101724" alt="South Korea" />
 </div>
 
 <br/>
@@ -88,8 +88,8 @@
     <tbody>
       <tr>
         <td width="420" valign="top">
-          <b>🖥️ <a href="https://blog.ethices.com">Project2036 Terminal</a></b> &nbsp;<code>HTML</code><br/>
-          <sub>백엔드 자동화 · AI OS 허브 &amp; <a href="https://blog.ethices.com/csi/"><code>/csi/</code> 코스트코 검색</a></sub>
+          <b>🌐 <a href="https://ethices.com">ETHICES</a> · <a href="https://blog.ethices.com">Project2036 Terminal</a></b> &nbsp;<code>WEB</code><br/>
+          <sub>"51% of Good" · 윤리의식×AI 홈페이지 &amp; <a href="https://blog.ethices.com/csi/"><code>/csi/</code> 코스트코 검색</a></sub>
         </td>
         <td width="420" valign="top">
           <b>🛡️ <a href="https://github.com/azdream/ai-agent-gateway">ai-agent-gateway</a> · <a href="https://github.com/azdream/tram-aag">tram-aag</a></b> &nbsp;<code>Go / HTML</code><br/>
@@ -123,7 +123,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://blog.ethices.com">
+  <a href="https://ethices.com">
     <img src="./assets/footer-arcade.gif" width="840" alt="Thanks for visiting azdream's arcade!" />
   </a>
 </div>

@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="174" viewBox="0 0 840 174" shape-rendering="crispEdges">
+  <style>
+    .mono { font-family: ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    .led1 { animation: pulse 1.4s steps(2, end) infinite; }
+    .led2 { animation: pulse 1.4s steps(2, end) 0.45s infinite; }
+    .led3 { animation: pulse 1.4s steps(2, end) 0.9s infinite; }
+  </style>
+  <rect width="840" height="174" fill="#0d1117"/>
+
+  <!-- CARTRIDGE 01: BACKEND & DATA -->
+  <g transform="translate(2, 2)">
+    <rect x="4" y="4" width="266" height="164" fill="#06090f"/>
+    <rect x="0" y="0" width="266" height="164" fill="#101724"/>
+    <rect x="0" y="0" width="266" height="2" fill="#fa9679"/>
+    <rect x="0" y="162" width="266" height="2" fill="#fa9679"/>
+    <rect x="0" y="0" width="2" height="164" fill="#fa9679"/>
+    <rect x="264" y="0" width="2" height="164" fill="#fa9679"/>
+    <rect x="2" y="2" width="262" height="28" fill="#1d1822"/>
+    <rect x="2" y="30" width="262" height="2" fill="#6e342a"/>
+    <rect class="led1" x="12" y="12" width="8" height="8" fill="#fa9679"/>
+    <text x="28" y="20" class="mono" font-size="12" font-weight="700" fill="#f8f2d8">SLOT 01 · BACKEND</text>
+
+    <!-- Crisp pixel skill chips -->
+    <g font-size="11" font-weight="700" class="mono">
+      <rect x="14" y="44" width="70" height="24" fill="#1a2234"/><rect x="14" y="66" width="70" height="2" fill="#fa9679"/>
+      <text x="49" y="60" text-anchor="middle" fill="#f8fafc">Java</text>
+
+      <rect x="92" y="44" width="94" height="24" fill="#1a2234"/><rect x="92" y="66" width="94" height="2" fill="#fa9679"/>
+      <text x="139" y="60" text-anchor="middle" fill="#f8fafc">Spring Boot</text>
+
+      <rect x="194" y="44" width="58" height="24" fill="#1a2234"/><rect x="194" y="66" width="58" height="2" fill="#fa9679"/>
+      <text x="223" y="60" text-anchor="middle" fill="#f8fafc">Go</text>
+
+      <rect x="14" y="78" width="74" height="24" fill="#1a2234"/><rect x="14" y="100" width="74" height="2" fill="#facc15"/>
+      <text x="51" y="94" text-anchor="middle" fill="#f8fafc">Python</text>
+
+      <rect x="96" y="78" width="90" height="24" fill="#1a2234"/><rect x="96" y="100" width="90" height="2" fill="#60a5fa"/>
+      <text x="141" y="94" text-anchor="middle" fill="#f8fafc">TypeScript</text>
+
+      <rect x="194" y="78" width="58" height="24" fill="#1a2234"/><rect x="194" y="100" width="58" height="2" fill="#fa9679"/>
+      <text x="223" y="94" text-anchor="middle" fill="#f8fafc">Rust</text>
+
+      <rect x="14" y="112" width="112" height="24" fill="#1a2234"/><rect x="14" y="134" width="112" height="2" fill="#5eead4"/>
+      <text x="70" y="128" text-anchor="middle" fill="#f8fafc">PostgreSQL</text>
+
+      <rect x="134" y="112" width="118" height="24" fill="#1a2234"/><rect x="134" y="134" width="118" height="2" fill="#5eead4"/>
+      <text x="193" y="128" text-anchor="middle" fill="#f8fafc">Oracle · Linux</text>
+    </g>
+    <text x="14" y="154" class="mono" font-size="10" fill="#94a3b8">ENTERPRISE API &amp; PIPELINES</text>
+  </g>
+
+  <!-- CARTRIDGE 02: AI & MULTI-AGENT -->
+  <g transform="translate(285, 2)">
+    <rect x="4" y="4" width="266" height="164" fill="#06090f"/>
+    <rect x="0" y="0" width="266" height="164" fill="#101724"/>
+    <rect x="0" y="0" width="266" height="2" fill="#60a5fa"/>
+    <rect x="0" y="162" width="266" height="2" fill="#60a5fa"/>
+    <rect x="0" y="0" width="2" height="164" fill="#60a5fa"/>
+    <rect x="264" y="0" width="2" height="164" fill="#60a5fa"/>
+    <rect x="2" y="2" width="262" height="28" fill="#162033"/>
+    <rect x="2" y="30" width="262" height="2" fill="#223e6c"/>
+    <rect class="led2" x="12" y="12" width="8" height="8" fill="#60a5fa"/>
+    <text x="28" y="20" class="mono" font-size="12" font-weight="700" fill="#f8f2d8">SLOT 02 · AI SQUAD</text>
+
+    <g font-size="11" font-weight="700" class="mono">
+      <rect x="14" y="44" width="74" height="24" fill="#1a2234"/><rect x="14" y="66" width="74" height="2" fill="#fa9679"/>
+      <text x="51" y="60" text-anchor="middle" fill="#f8fafc">Claude</text>
+
+      <rect x="96" y="44" width="74" height="24" fill="#1a2234"/><rect x="96" y="66" width="74" height="2" fill="#60a5fa"/>
+      <text x="133" y="60" text-anchor="middle" fill="#f8fafc">Gemini</text>
+
+      <rect x="178" y="44" width="74" height="24" fill="#1a2234"/><rect x="178" y="66" width="74" height="2" fill="#34d399"/>
+      <text x="215" y="60" text-anchor="middle" fill="#f8fafc">Codex</text>
+
+      <rect x="14" y="78" width="66" height="24" fill="#1a2234"/><rect x="14" y="100" width="66" height="2" fill="#a78bfa"/>
+      <text x="47" y="94" text-anchor="middle" fill="#f8fafc">Kiro</text>
+
+      <rect x="88" y="78" width="82" height="24" fill="#1a2234"/><rect x="88" y="100" width="82" height="2" fill="#fbbf24"/>
+      <text x="129" y="94" text-anchor="middle" fill="#f8fafc">Genspark</text>
+
+      <rect x="178" y="78" width="74" height="24" fill="#1a2234"/><rect x="178" y="100" width="74" height="2" fill="#5eead4"/>
+      <text x="215" y="94" text-anchor="middle" fill="#f8fafc">MCP</text>
+
+      <rect x="14" y="112" width="114" height="24" fill="#1a2234"/><rect x="14" y="134" width="114" height="2" fill="#a78bfa"/>
+      <text x="71" y="128" text-anchor="middle" fill="#f8fafc">Ontology</text>
+
+      <rect x="136" y="112" width="116" height="24" fill="#1a2234"/><rect x="136" y="134" width="116" height="2" fill="#60a5fa"/>
+      <text x="194" y="128" text-anchor="middle" fill="#f8fafc">Governance</text>
+    </g>
+    <text x="14" y="154" class="mono" font-size="10" fill="#94a3b8">PLANNER · WORKER · JUDGE</text>
+  </g>
+
+  <!-- CARTRIDGE 03: AUTOMATION & OPS -->
+  <g transform="translate(568, 2)">
+    <rect x="4" y="4" width="266" height="164" fill="#06090f"/>
+    <rect x="0" y="0" width="266" height="164" fill="#101724"/>
+    <rect x="0" y="0" width="266" height="2" fill="#34d399"/>
+    <rect x="0" y="162" width="266" height="2" fill="#34d399"/>
+    <rect x="0" y="0" width="2" height="164" fill="#34d399"/>
+    <rect x="264" y="0" width="2" height="164" fill="#34d399"/>
+    <rect x="2" y="2" width="262" height="28" fill="#142422"/>
+    <rect x="2" y="30" width="262" height="2" fill="#16523e"/>
+    <rect class="led3" x="12" y="12" width="8" height="8" fill="#34d399"/>
+    <text x="28" y="20" class="mono" font-size="12" font-weight="700" fill="#f8f2d8">SLOT 03 · OPS &amp; FLOW</text>
+
+    <g font-size="11" font-weight="700" class="mono">
+      <rect x="14" y="44" width="112" height="24" fill="#1a2234"/><rect x="14" y="66" width="112" height="2" fill="#34d399"/>
+      <text x="70" y="60" text-anchor="middle" fill="#f8fafc">Obsidian OS</text>
+
+      <rect x="134" y="44" width="118" height="24" fill="#1a2234"/><rect x="134" y="66" width="118" height="2" fill="#34d399"/>
+      <text x="193" y="60" text-anchor="middle" fill="#f8fafc">Agent Memory</text>
+
+      <rect x="14" y="78" width="112" height="24" fill="#1a2234"/><rect x="14" y="100" width="112" height="2" fill="#facc15"/>
+      <text x="70" y="94" text-anchor="middle" fill="#f8fafc">Make · Hooks</text>
+
+      <rect x="134" y="78" width="118" height="24" fill="#1a2234"/><rect x="134" y="100" width="118" height="2" fill="#facc15"/>
+      <text x="193" y="94" text-anchor="middle" fill="#f8fafc">tmux Runtime</text>
+
+      <rect x="14" y="112" width="112" height="24" fill="#1a2234"/><rect x="14" y="134" width="112" height="2" fill="#5eead4"/>
+      <text x="70" y="128" text-anchor="middle" fill="#f8fafc">OCR · Retail</text>
+
+      <rect x="134" y="112" width="118" height="24" fill="#1a2234"/><rect x="134" y="134" width="118" height="2" fill="#5eead4"/>
+      <text x="193" y="128" text-anchor="middle" fill="#f8fafc">GitHub Pages</text>
+    </g>
+    <text x="14" y="154" class="mono" font-size="10" fill="#94a3b8">OBSERVABLE · HUMAN-IN-LOOP</text>
+  </g>
+</svg>

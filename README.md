@@ -1,129 +1,140 @@
 <div align="center">
-  <a href="https://ethices.com">
-    <img src="./assets/hero-arcade.gif" width="840" alt="AZDREAM // Project2036 Pixel Arcade Lounge featuring 5 Omni-Agent mini-me pixel characters" />
-  </a>
 
-  <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,32:f97316,66:7c3aed,100:06b6d4&height=230&section=header&text=Chris%20Um%20(%40azdream)&fontSize=48&fontColor=ffffff&fontAlignY=37&desc=Software%20Developer%20%E2%9C%A6%20Automation%20%E2%9C%A6%20AI%20Workflows&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Chris Um Header" />
 
-  <a href="https://ethices.com"><img src="https://img.shields.io/badge/HOMEPAGE-ethices.com-39ff88?style=flat-square&labelColor=101724" alt="ethices.com" /></a>
-  <a href="https://blog.ethices.com"><img src="https://img.shields.io/badge/TERMINAL-blog.ethices.com-5eead4?style=flat-square&labelColor=101724" alt="blog.ethices.com" /></a>
-  <a href="https://blog.ethices.com/csi/"><img src="https://img.shields.io/badge/UTILITY-%2Fcsi%2F_Costco_Search-facc15?style=flat-square&labelColor=101724" alt="Costco Search" /></a>
-  <a href="https://github.com/azdream?tab=repositories"><img src="https://img.shields.io/badge/QUEST_LOG-Public_Repos-fa9679?style=flat-square&labelColor=101724" alt="Repositories" /></a>
+<a href="https://ethices.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1000&color=FF6B9D&center=true&vCenter=true&width=780&height=44&lines=%E2%9C%A8+Hello!+I'm+Chris+Um+(%40azdream)+from+South+Korea;%E2%9A%A1+Enterprise+Back-office%2C+APIs%2C+Data+Pipelines+%26+Automation;%F0%9F%8C%88+ETHICES+%E2%80%94+51%25+of+Good+%C2%B7+ethices.com;%F0%9F%9A%80+AI+is+not+just+a+tool.+AI+is+a+team." alt="Animated Intro Tagline" />
+</a>
+
+<p>
+  <a href="https://ethices.com"><img src="https://img.shields.io/badge/ETHICES-ethices.com-ff6b9d?style=for-the-badge&logo=sparkles&logoColor=white" alt="ETHICES Homepage" /></a>
+  <a href="https://blog.ethices.com"><img src="https://img.shields.io/badge/Terminal-blog.ethices.com-7c5cff?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Project2036 Terminal" /></a>
+  <a href="https://blog.ethices.com/csi/"><img src="https://img.shields.io/badge/Costco_Scanner-%2Fcsi%2F-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Costco Price Scanner" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/azdream?tab=followers"><img src="https://img.shields.io/github/followers/azdream?label=Followers&style=for-the-badge&color=ff9f68&logo=github&logoColor=white" alt="GitHub Followers" /></a>
+  <a href="https://github.com/azdream?tab=repositories"><img src="https://img.shields.io/github/stars/azdream?affiliations=OWNER&style=for-the-badge&color=f59e0b&logo=github&logoColor=white" alt="GitHub Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=azdream&label=Profile+Views&color=ec4899&style=for-the-badge" alt="Profile Views" />
+</p>
+
 </div>
 
-<br/>
+---
+
+<img align="right" src="./assets/mascot-coding.gif" width="248" alt="Chris Um Coding Mascot" />
+
+## ✨ About Me
+
+> **"Technology should put goodness first — 51% of Good shapes the future."** — [ethices.com](https://ethices.com)
+
+- 💻 **Role:** Software Developer — Enterprise Back-office & Workflow Automation
+- ⚡ **Core Focus:** Workflow Automation · API Integrations · Data Pipelines · Multi-Agent Systems · Knowledge & Ontology
+- 🤖 **Philosophy:** *"AI is not just a tool. AI is a team."*
+- 🌐 **Home & Lab:** [ethices.com](https://ethices.com) · [blog.ethices.com](https://blog.ethices.com) · [Costco Price Scanner](https://blog.ethices.com/csi/)
+- 📍 **Location:** South Korea (`UTC+9`)
+
+<br clear="both" />
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/divider-arcade.svg" width="840" alt="Pixel Arcade Divider" />
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,go,rust,postgres,docker,linux,git,githubactions&perline=11" alt="Tech Stack Icons" />
+</a>
+
+<br />
+
+<sub><b>Systems:</b> Java · Spring · Go · Rust &nbsp;|&nbsp; <b>Automation &amp; AI:</b> Python · TypeScript &nbsp;|&nbsp; <b>Infra:</b> PostgreSQL · Docker · Linux · Actions</sub>
+
 </div>
 
-### 👾 `OMNI-AGENT SQUAD` — *AI is not just a tool. AI is a team.*
+---
+
+## 🏆 Trophies & Live GitHub Pulse
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center"><code>01 · ARCHITECT</code></th>
-        <th align="center"><code>02 · VISION</code></th>
-        <th align="center"><code>03 · REASONER</code></th>
-        <th align="center"><code>04 · CREW OPS</code></th>
-        <th align="center"><code>05 · RESEARCH</code></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td width="166" align="center"><img src="./assets/squad-claude.gif" width="144" alt="Claude pixel mini-me character cycling through idle, working, approval, idea, and completed states" /></td>
-        <td width="166" align="center"><img src="./assets/squad-gemini.gif" width="144" alt="Gemini pixel mini-me character cycling through idle, working, approval, idea, and completed states" /></td>
-        <td width="166" align="center"><img src="./assets/squad-chatgpt.gif" width="144" alt="ChatGPT pixel mini-me character cycling through idle, working, approval, idea, and completed states" /></td>
-        <td width="166" align="center"><img src="./assets/squad-kiro.gif" width="144" alt="Kiro pixel mini-me character cycling through idle, working, approval, idea, and completed states" /></td>
-        <td width="166" align="center"><img src="./assets/squad-genspark.gif" width="144" alt="Genspark pixel mini-me character cycling through idle, working, approval, idea, and completed states" /></td>
-      </tr>
-      <tr>
-        <td width="166" align="center"><b>Claude</b><br/><sub>Coral · Architect</sub></td>
-        <td width="166" align="center"><b>Gemini</b><br/><sub>Sapphire · Vision</sub></td>
-        <td width="166" align="center"><b>ChatGPT</b><br/><sub>Mint · Reasoner</sub></td>
-        <td width="166" align="center"><b>Kiro</b><br/><sub>Violet · Crew Ops</sub></td>
-        <td width="166" align="center"><b>Genspark</b><br/><sub>Amber · Research</sub></td>
-      </tr>
-    </tbody>
-  </table>
 
-  <details>
-    <summary>🕹️ <b>Open Sprite Dex (5 Agents × 5 States · 25 Pixel Sprites)</b></summary>
-    <br/>
-    <img src="./assets/sprite-dex.png" width="840" alt="Omni-Agent Pixel Sprite Dex showing all 25 states across Claude, Gemini, ChatGPT, Kiro, and Genspark" />
-  </details>
+<a href="https://github.com/azdream">
+  <img src="https://github-profile-trophy-api.vercel.app/?username=azdream&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+</a>
+
+<p>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=azdream&show_icons=true&hide_border=false&border_color=ff7eb6&border_radius=14&bg_color=45,2a1b3d,181c36,0f2a3d&title_color=ffb86c&text_color=f8fafc&icon_color=7dcfff&ring_color=ff7eb6&rank_icon=github" alt="Chris Um GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=azdream&hide_border=false&border=7dcfff&border_radius=14&background=0f172a&ring=ff7eb6&fire=ffb86c&currStreakNum=7dcfff&sideNums=f8fafc&currStreakLabel=ff7eb6&sideLabels=94a3b8&dates=cbd5e1" alt="GitHub Streak Stats" />
+</p>
+
+<p>
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azdream&theme=tokyonight" alt="Profile Summary Card" />
+  <img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azdream&theme=tokyonight&utcOffset=9" alt="Productive Time UTC+9" />
+</p>
+
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Snake & Activity
 
 <div align="center">
-  <img src="./assets/divider-arcade.svg" width="840" alt="Pixel Arcade Divider" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azdream/azdream/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azdream/azdream/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/azdream/azdream/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+<details open>
+  <summary><b>📈 View 30-Day Contribution Wave Graph</b></summary>
+  <br />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=azdream&bg_color=0f172a&color=7dcfff&line=ff7eb6&point=ffb86c&area=true&area_color=ff7eb6&hide_border=false&border_color=7c5cff&radius=14" alt="Chris Um Activity Graph" />
+</details>
+
 </div>
 
-### 💻 `PLAYER PROFILE`
+---
+
+## 🚀 Featured Sites & Public Repositories
+
+### 🌐 Web Portals & Utilities
+
+- **[ETHICES (`ethices.com`)](https://ethices.com)** — *선의 51%가 미래를 만든다 (51% of Good) · Ethics × AI × Security × Web3*
+- **[Project2036 Terminal (`blog.ethices.com`)](https://blog.ethices.com)** — *Interactive Developer Terminal & Lab*
+- **[Costco Price Scanner (`blog.ethices.com/csi/`)](https://blog.ethices.com/csi/)** — *Live Costco Clearance & Discount Tracker Utility*
+
+### 🧩 Open-Source & Community Repositories
 
 <div align="center">
-  <img src="./assets/whoami-hud.svg" width="840" alt="azdream RPG status and terminal profile card" />
+
+<p>
+  <a href="https://github.com/azdream/ai-agent-gateway"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=ai-agent-gateway&theme=tokyonight&border_color=ff7eb6&border_radius=12&title_color=ffb86c&icon_color=7dcfff&text_color=e2e8f0&bg_color=45,241838,141c33&description_lines_count=2" alt="ai-agent-gateway" /></a>
+  <a href="https://github.com/azdream/KiroCrew"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=KiroCrew&theme=tokyonight&border_color=7dcfff&border_radius=12&title_color=7dcfff&icon_color=ff7eb6&text_color=e2e8f0&bg_color=45,141c33,241838&description_lines_count=2" alt="KiroCrew" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/azdream/auto-ontology"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=auto-ontology&theme=tokyonight&border_color=ffb86c&border_radius=12&title_color=ffb86c&icon_color=5eead4&text_color=e2e8f0&bg_color=45,241838,141c33&description_lines_count=2" alt="auto-ontology" /></a>
+  <a href="https://github.com/azdream/tram-aag"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=tram-aag&theme=tokyonight&border_color=a78bfa&border_radius=12&title_color=c4b5fd&icon_color=ffb86c&text_color=e2e8f0&bg_color=45,141c33,241838&description_lines_count=2" alt="tram-aag" /></a>
+</p>
+
+<p>
+  <a href="https://github.com/azdream/agent-desktop"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=agent-desktop&theme=tokyonight&border_color=5eead4&border_radius=12&title_color=5eead4&icon_color=ff7eb6&text_color=e2e8f0&bg_color=45,241838,141c33&description_lines_count=2" alt="agent-desktop" /></a>
+  <a href="https://github.com/azdream/repoprompt-ce"><img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=azdream&repo=repoprompt-ce&theme=tokyonight&border_color=ff7eb6&border_radius=12&title_color=ff7eb6&icon_color=7dcfff&text_color=e2e8f0&bg_color=45,141c33,241838&description_lines_count=2" alt="repoprompt-ce" /></a>
+</p>
+
 </div>
 
-<br/>
-
-### 🎮 `EQUIPPED CARTRIDGES`
+---
 
 <div align="center">
-  <img src="./assets/stack-rack.svg" width="840" alt="Pixel arcade tech stack cartridges: Backend, AI Squad, Ops and Flow" />
-</div>
 
-<br/>
+<img src="./assets/mascot-cheer.gif" width="210" alt="Chris Um Celebration Mascot" />
 
-<div align="center">
-  <img src="./assets/divider-arcade.svg" width="840" alt="Pixel Arcade Divider" />
-</div>
+### 🌈 Thanks for visiting! Let's build technology with 51% of Good ✨
 
-### 📜 `QUEST BOARD` — Featured Public Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,34:7c3aed,68:f97316,100:ec4899&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
 
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td width="420" valign="top">
-          <b>🌐 <a href="https://ethices.com">ETHICES</a> · <a href="https://blog.ethices.com">Project2036 Terminal</a></b> &nbsp;<code>WEB</code><br/>
-          <sub>"51% of Good" · 윤리의식×AI 홈페이지 &amp; <a href="https://blog.ethices.com/csi/"><code>/csi/</code> 코스트코 검색</a></sub>
-        </td>
-        <td width="420" valign="top">
-          <b>🛡️ <a href="https://github.com/azdream/ai-agent-gateway">ai-agent-gateway</a> · <a href="https://github.com/azdream/tram-aag">tram-aag</a></b> &nbsp;<code>Go / HTML</code><br/>
-          <sub>AI 에이전트 MCP 호출을 검증·관측하는 거버넌스 게이트웨이</sub>
-        </td>
-      </tr>
-      <tr>
-        <td width="420" valign="top">
-          <b>🧠 <a href="https://github.com/azdream/auto-ontology">auto-ontology</a></b> &nbsp;<code>Python</code><br/>
-          <sub>에이전트 워크플로우용 시맨틱 그래프 추론 · 컨텍스트 계층</sub>
-        </td>
-        <td width="420" valign="top">
-          <b>👾 <a href="https://github.com/azdream/KiroCrew">KiroCrew</a></b> &nbsp;<code>Python</code><br/>
-          <sub>세션을 넘어 스스로 개선하며 이어지는 AI 개발 워크스페이스</sub>
-        </td>
-      </tr>
-      <tr>
-        <td width="420" valign="top">
-          <b>⌨️ <a href="https://github.com/azdream/agent-desktop">agent-desktop</a></b> &nbsp;<code>Rust</code><br/>
-          <sub>AI 에이전트의 데스크톱 조작 및 자동화를 위한 Computer-Use CLI</sub>
-        </td>
-        <td width="420" valign="top">
-          <b>🧩 <a href="https://github.com/azdream/repoprompt-ce">repoprompt-ce</a></b> &nbsp;<code>Swift</code><br/>
-          <sub>AI 코딩 에이전트용 macOS 네이티브 컨텍스트 엔지니어링 &amp; MCP CLI</sub>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://ethices.com">
-    <img src="./assets/footer-arcade.gif" width="840" alt="Thanks for visiting azdream's arcade!" />
-  </a>
 </div>
